@@ -100,8 +100,8 @@ function App(): JSX.Element {
     Metrix.setUserCity("city");
     Metrix.setUserRegion("region");
     Metrix.setUserLocality("locality");
-//     Metrix.setUserGender("MALE"); // gender value could be "MALE" , "FEMALE" or "OTHER"
-//     Metrix.setUserBirthday(1); // birthday value type should be 'Long'
+    Metrix.setUserGender("MALE"); // gender value could be "MALE" , "FEMALE" or "OTHER"
+    Metrix.setUserBirthday(1); // birthday value type should be 'Long'
     Metrix.setUserFcmToken("fcmToken");
     Metrix.userChannelEnabled("SMS"); // channel value could be "SMS", "PUSH" or "EMAIL"
     Metrix.userChannelDisabled("PUSH"); // channel value could be "SMS", "PUSH" or "EMAIL"

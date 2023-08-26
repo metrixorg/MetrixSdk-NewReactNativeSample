@@ -23,6 +23,9 @@
       </activity>
         <meta-data
             android:name="ir.metrix.APPLICATION_ID"
-            android:value="vfwotfhyidtcrpj" />
+            android:value="apovoqdqmwxjwna" />
+        <meta-data
+            android:name="ir.metrix.SIGNATURE"
+            android:value="qzJgZYCaXFAEHBU6NSdicL5kjiZqNvQzOKUbBFW2WuQrUymuGm8nKhwgHBZ0YUA3Nlr2JKSkjlLhNyP6PIW0ViP1MFCzLJJrqoXdWXQ6YFlzVDK3PxC0IF0=" />
     </application>
 </manifest>

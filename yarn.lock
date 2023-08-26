@@ -1514,10 +1514,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@metrixorg/react-native-plugin@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/@metrixorg/react-native-plugin/-/react-native-plugin-2.0.0.tgz"
-  integrity sha512-/fLRAMkrADePcpZatbWR8Td/PEhBEvgLWiyvidii9oiwKGk6rJdQhXy6HjuDxoyJMeu4e4Yw5sUnZpAkJ/nTuQ==
+"@metrixorg/react-native-plugin@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.npmjs.org/@metrixorg/react-native-plugin/-/react-native-plugin-2.0.3.tgz"
+  integrity sha512-JCuLaqP5LmfNaHZx/JKyWxF6jpyhLkXmfpkzv6cjcFiCKrs/0XcUGgausKHNCEud4a/0uORM8INEKnLJYk8imw==
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"

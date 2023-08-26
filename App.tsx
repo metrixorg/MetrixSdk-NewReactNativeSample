@@ -87,7 +87,6 @@ function App(): JSX.Element {
     Metrix.setUserAttributes(userAttributes);
 
     Metrix.setUserCustomId("userId"); // call when user tries to login in your system and set userId value that user already knows in your system
-//     Metrix.deleteUserCustomId(); // call when your user goes to logout in your system
     Metrix.setUserFirstName("userFirstName");
     Metrix.setUserLastName("userLastName");
     Metrix.setUserPhoneNumber("phoneNumber");
@@ -98,6 +97,8 @@ function App(): JSX.Element {
     Metrix.setUserCity("city");
     Metrix.setUserRegion("region");
     Metrix.setUserLocality("locality");
+    Metrix.setUserGender("MALE"); // gender value could be "MALE" , "FEMALE" or "OTHER"
+    Metrix.setUserBirthday(1); // birthday value type should be 'Long'
     Metrix.setUserFcmToken("fcmToken");
     Metrix.userChannelEnabled("SMS"); // channel value could be "SMS", "PUSH" or "EMAIL"
     Metrix.userChannelDisabled("PUSH"); // channel value could be "SMS", "PUSH" or "EMAIL"
